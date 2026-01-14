@@ -400,8 +400,8 @@ ninja.data = [{
           section: "News",},{id: "news-in-san-diego-for-neurips-2025-presenting-our-degeneracy-in-rnns-work-at-the-main-conference-and-as-a-spotlight-talk-at-the-neurreps-workshop",
           title: 'In San Diego for NeurIPS 2025, presenting our Degeneracy in RNNs work at...',
           description: "",
-          section: "News",},{id: "news-our-inputdsa-was-selected-for-a-talk-at-cosyne-2026-2-5-happy-to-chat-about-neural-dynamics-multi-area-interaction-learning-dynamics-and-curriculum-at-the-conference-please-reach-out",
-          title: '🎉 Our InputDSA was selected for a talk at COSYNE 2026 (~2.5%)! Happy...',
+          section: "News",},{id: "news-our-inputdsa-was-selected-for-a-talk-at-cosyne-2026-2-5-if-you-wanna-chat-about-neural-dynamics-multi-area-interaction-learning-dynamics-and-curriculum-at-the-conference-please-reach-out",
+          title: '🎉 Our InputDSA was selected for a talk at COSYNE 2026 (~2.5%)! If...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -413,35 +413,35 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("mailto:%61%6E%6E%68%75%61%6E%67@%67.%68%61%72%76%61%72%64.%65%64%75", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=zPJUEzsAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/ann-huang-2730231a7", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/AnnHuang42", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/annhuang42.bsky.social", "_blank");
         },
       },{
       id: 'light-theme',
