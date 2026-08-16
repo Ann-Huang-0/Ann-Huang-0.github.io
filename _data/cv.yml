@@ -32,35 +32,36 @@
       year: 2024.03 – Present
       description:
         - Supervised by Kanaka Rajan
-        # - Build theoretical frameworks and tools to characterize, interpret, and constrain the solution space of task-trained RNNs
-        # - Develop data-driven methods for identifying and comparing input-driven dynamical systems, with applications to RL agents and neural dynamics
-        # - Empirical and theoretical analysis of learning dynamics in RL agents
-        # - Modeling interacting dynamical systems to identify cross-system coupling and transformations (ongoing)
+        - Developed a systematic framework for measuring and controlling solution degeneracy in task-trained RNNs, identifying four factors that mediate inter-seed variability at the level of behavior, neural dynamics, and weights, which serves as a principled guideline for when a mechanism found in one model transfers to another (NeurIPS 2025 Spotlight)
+        - Built InputDSA, an interpretability tool for separating and comparing intrinsic vs. externally driven dynamics in complex systems, applicable to both neural data and model activations (ICLR 2026)
+        - Currently developing Hessian Null-Space Continuation, a scalable method that traverses the space of functionally equivalent networks and steers models toward mechanisms with desired internal properties at fixed behavior
 
     - title: Research Assistant, Richards Lab
       institution: McGill & Mila, Montreal, QC, Canada
       year: 2021.09 – 2024.06
       description:
         - Supervised by Blake Richards
-        - Built deep RL agents to study time encoding in the brain
-        - Investigated how task-relevant information acquired during pretraining can be compressed into a prior over initial weights for RNNs
+        - Developed Stochastic Genomic Bottleneck, a generative method that compresses task-relevant priors into RNN weights, enabling rapid learning from minimal data — a structured-prior analog of pretraining (bioRxiv)
+        - Interpreted the memory mechanisms and navigation strategies implemented by deep RL agents via decoding, dynamical systems analysis, dimensionality reduction, and ablation (Scientific Reports)
 
     - title: Visiting Researcher, Mathis Lab
       institution: EPFL, Geneva, Switzerland
       year: 2022.06 – 2023.05
       description:
         - Supervised by Alexander Mathis
-        - Built bio-inspired hierarchical RL models for musculoskeletal motor control
-        # - Contributed to large-scale RL experiments evaluating latent-space exploration strategies in the context of musculoskeletal motor control tasks
+        - Designed a goal-conditioned hierarchical deep RL algorithm for musculoskeletal control, combining a pretrained language model that proposes behavioral subgoals with a distributed actor-critic architecture that executes the low-level actions
+        - Contributed to latent exploration methods that shape covariance across actuators for coordinated exploration and control (NeurIPS 2023)
     - title: Research Assistant, Gershman Lab
       institution: Harvard, Cambridge, MA, USA
       year: 2021.09 – 2022.06
       description:
         - Supervised by Sam Gershman
-        - Modeling action chunking as a consequence of policy compression under resource rationality
+        - Developed a theory that explains action chunking as policy compression under the rate-distortion framework; designed cost-sensitive actor-critic RL models with information-theoretic penalties on policy complexity
+        - Validated models against human behavior via Bayesian model selection and simulation (Cognition)
     - title: Research Assistant, Brandon Lab
       institution: McGill, Montreal, QC, Canada
       year: 2019.11 – 2021.05
       description:
         - Supervised by Mark Brandon
-        - Long-term stability of spatial context representations in the hippocampus despite neural drift
+        - Studied long-term stability of spatial context representations in the hippocampus despite neural drift
+        - Built a Bayesian decoder for animal location from neural recordings in mice; used representational similarity analysis and generalized linear models to factor the neural representations of animal location into orthogonal contextual and temporal-drift components

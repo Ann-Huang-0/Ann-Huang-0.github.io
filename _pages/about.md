@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Candidate in Computational Neuroscience, Harvard University</a>
+subtitle: <a href='#'>PhD Candidate in Computational Neuroscience & AI, Harvard University</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -26,11 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I’m Ann, a third-year PhD student in Neuroscience at Harvard University and the Kempner Institute, supported by the Kempner Graduate Fellowship.
+Hi there! I’m Ann, a fourth-year PhD student in computational neuroscience and AI at Harvard University and the Kempner Institute, supported by the Kempner Graduate Fellowship.
 
-Neural computation is better understood as an equivalence class of dynamical mechanisms shaped by inputs and interactions. My work develops methods, frameworks, and theory to identify and interpret the computations implemented by biological and artificial systems through the lens of dynamical systems theory and machine learning, and to relate these computations to learning, control, and multi-area interactions.
-
-<!-- I graduated from McGill University in May 2023 with a major in Neuroscience and a double minor in Mathematics and Computer Science. As an undergraduate, I had the amazing oppotunity of working with Blake Richards and Mark Brandon at McGill, Alexander Mathis at EPFL, and Sam Gershman at Harvard. These awesome mentors have deeply influenced my path into research. -->
+My research lies at the intersection of representation learning, interpretability, and dynamical systems theory, guided by three recurring themes. **(1) System identifiability:** I develop methods and theory to identify and steer the computations implemented by artificial and biological neural networks. In particular, I study under-specification: when a task or training objective admits many models with the same performance but different internal mechanisms. **(2) Representational alignment:** I design metrics that compare computations across systems by their dynamics — how internal states evolve in time and how they respond to inputs. **(3) Training dynamics:** I combine theory and experiment to study how curriculum learning speeds up learning and steers networks away from bad minima, and how training shapes models’ representations and selects among the many solutions a task admits. Ultimately, I aim to translate our mechanistic understandings of deep learning models into more efficient training and safer models that are robust to adversarial attacks and reward hacking.
 
 Outside research, I enjoy skiing, hiking, climbing, reading, travelling, listening to rock music and attending concerts.
 
