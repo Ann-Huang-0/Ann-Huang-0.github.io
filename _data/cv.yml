@@ -33,7 +33,7 @@
       description:
         - Supervised by Kanaka Rajan
         - Developed a systematic framework for measuring and controlling solution degeneracy in task-trained RNNs, identifying four factors that mediate inter-seed variability at the level of behavior, neural dynamics, and weights, which serves as a principled guideline for when a mechanism found in one model transfers to another (NeurIPS 2025 Spotlight)
-        - Built InputDSA, an interpretability tool for separating and comparing intrinsic vs. externally driven dynamics in complex systems, applicable to both neural data and model activations (ICLR 2026)
+        - Built InputDSA, a similarity metric for separating and comparing intrinsic vs. externally driven dynamics in complex systems, applicable to both neural data and model activations (ICLR 2026)
         - Currently developing Hessian Null-Space Continuation, a scalable method that traverses the space of functionally equivalent networks and steers models toward mechanisms with desired internal properties at fixed behavior
 
     - title: Research Assistant, Richards Lab
