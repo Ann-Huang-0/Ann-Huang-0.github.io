@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 <p> Our paper "Effectiveness of Curriculum Learning Depends on Reward Sparsity and
-Competing Optima" has been accepted at NeurIPS 2026!</p>
+Competing Optima" has been accepted at NeurIPS 2026! 🇦🇺</p>
