@@ -50,7 +50,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-quot-effectiveness-of-curriculum-learning-depends-on-reward-sparsity-and-competing-optima-quot-has-been-accepted-at-neurips-2026",
           title: 'Our paper &amp;quot;Effectiveness of Curriculum Learning Depends on Reward Sparsity and Competing Optima&amp;quot;...',
           description: "",
-          section: "News",},{id: "news-our-new-paper-quot-traversing-the-solution-space-of-neural-networks-with-hessian-null-space-continuation-quot-is-on-arxiv-see-the-paper-here",
+          section: "News",},{id: "news-our-new-paper-quot-traversing-the-solution-space-of-neural-networks-with-hessian-null-space-continuation-quot-is-on-arxiv-see-the-paper-here-and-the-project-website-here",
           title: 'Our new paper &amp;quot;Traversing the solution space of neural networks with Hessian Null...',
           description: "",
           section: "News",},{
