@@ -53,6 +53,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-new-paper-quot-traversing-the-solution-space-of-neural-networks-with-hessian-null-space-continuation-quot-is-on-arxiv-see-the-paper-here-and-the-project-website-here",
           title: 'Our new paper &amp;quot;Traversing the solution space of neural networks with Hessian Null...',
           description: "",
+          section: "News",},{id: "news-i-gave-a-lab-meeting-to-the-tinlab-and-the-broader-linguistics-and-ai-communities-at-boston-university-titled-quot-many-solutions-to-the-same-task-identifiability-in-trained-neural-networks-quot-it-was-a-great-pleasure-chatting-with-everyone-after-the-talk",
+          title: 'I gave a lab meeting to the tinlab and the broader Linguistics and...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
